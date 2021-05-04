@@ -1,0 +1,30 @@
+h2 {
+  color: red;
+}
+
+.red_border {
+  border: 2px solid red;
+}
+
+#upper_alpha ol {
+  list-style-type: upper-alpha;
+}
+
+img {
+  width: 300px;
+}
+
+.unordered ul {
+  background-color: aqua;
+}
+
+p,
+li,
+h2 {
+  text-align: center;
+}
+
+ul,
+ol {
+  list-style-position: inside;
+}
